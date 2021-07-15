@@ -1,0 +1,14 @@
+{
+  "name": "8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "run": "tsc && node 8.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

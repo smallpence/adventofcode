@@ -1,0 +1,13 @@
+/home/sam/Documents/adventofcode/2020/11/bin/Debug/netcoreapp3.1/11
+/home/sam/Documents/adventofcode/2020/11/bin/Debug/netcoreapp3.1/11.deps.json
+/home/sam/Documents/adventofcode/2020/11/bin/Debug/netcoreapp3.1/11.runtimeconfig.json
+/home/sam/Documents/adventofcode/2020/11/bin/Debug/netcoreapp3.1/11.runtimeconfig.dev.json
+/home/sam/Documents/adventofcode/2020/11/bin/Debug/netcoreapp3.1/11.dll
+/home/sam/Documents/adventofcode/2020/11/bin/Debug/netcoreapp3.1/11.pdb
+/home/sam/Documents/adventofcode/2020/11/obj/Debug/netcoreapp3.1/11.csprojAssemblyReference.cache
+/home/sam/Documents/adventofcode/2020/11/obj/Debug/netcoreapp3.1/11.AssemblyInfoInputs.cache
+/home/sam/Documents/adventofcode/2020/11/obj/Debug/netcoreapp3.1/11.AssemblyInfo.cs
+/home/sam/Documents/adventofcode/2020/11/obj/Debug/netcoreapp3.1/11.csproj.CoreCompileInputs.cache
+/home/sam/Documents/adventofcode/2020/11/obj/Debug/netcoreapp3.1/11.dll
+/home/sam/Documents/adventofcode/2020/11/obj/Debug/netcoreapp3.1/11.pdb
+/home/sam/Documents/adventofcode/2020/11/obj/Debug/netcoreapp3.1/11.genruntimeconfig.cache
